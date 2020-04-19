@@ -1,0 +1,7 @@
+"
+
+There is a bug that leaves the "There and back Again" quest during the brewfest event impossible. After the player rides the rental ram and receives the "Portable Brewfest Keg" from the target goblin in the valley, the player is unable to deliver the keg to “Driz Tumblequick” when the player is in near proximity to him. When the player is near “Driz Tumblequick” the message “Invalid target” in red appears repeatedly in the middle of the screen. This makes completing the quest impossible.
+
+"
+
+No clue is it correct but it should be easy to check anyway.
