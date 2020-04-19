@@ -1,0 +1,26 @@
+
+
+Quest: Azsharite
+
+ 
+
+Loramus give you Felhound Tracker Kit and asks you to gather 20 Crystalized Azsharite, which can be found in southern part of Azshara.
+
+ 
+
+_______________________________________________________
+
+Currently:
+
+    I didn't received Fel Trackers Owner's Manual. But I guess I was unlucky. ( 78% chance to get from Kit )
+    Felhound Tracker didn't react to "/roar"
+
+_______________________________________________________
+
+Suppose To Be:
+
+    Felhound Tracker Kit should give you Fel Trackers Owner's Manual.
+    Felhound Tracker should react to "/roar" by growling and guiding to nearby Crystalized Azsharite.
+
+_______________________________________________________
+
