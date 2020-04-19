@@ -1,0 +1,17 @@
+Made by Denagul 
+ 
+ Hi, I believe i found something odd about meteor slash. It's behaviour seems great, but the initial damage value seems off.
+
+ 
+
+The way it's supposed to be, is that each slash does 20.000 damage. Of course it scales with each stack of 75% increased fire damage so each additional slash will do 15.000 damage more than the previous one (1st 20k 2nd 35k 3rd 50k etc.), but they all technically do only 20k
+
+ 
+
+On our server it seems the damage is higher than intended where the first slash already does 35.000 from the start and the 2nd slash does 50.000 etc. So scaling seems proper, it's the initial damage that is the issue.
+
+ 
+
+Apologies in advance if I'm missing something where it's 35k in patch 2.4.3, i looked through patch notes and nothing said about brut's meteor slash damage going higher in damage, only changes to brut that were significant was the range on it became 5000 yards in 2.4.1 
+
+https://www.youtube.com/watch?v=McUr2bHKQyI#action=share
