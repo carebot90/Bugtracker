@@ -1,0 +1,5 @@
+https://forum.excalibur.ws/bugtracker/excalibur-tbc/openworldnpcs/netherstorm-craghide-basilisk-r6144/
+
+The bug was reported for this npc: Craghide basilisk
+
+to my knowledge its a bug specific for that npc, a mob that can charge and does that on a flying player close enough to the ground (very precise height from the ground) will have the npc continuously reset and recharge on the target making the player stuck in a stun loop.
