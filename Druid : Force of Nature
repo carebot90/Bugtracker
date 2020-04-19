@@ -1,0 +1,33 @@
+Just copy pasting this bug, confirmed not marked as fixed. 
+
+
+
+
+Treants does not attack nearby enemies unless their master is attacked by someone (simillar to Hunters defensive stance) or summoned incredibly close to a target.
+
+ 
+
+This can be easily tested summoning them on top of a training dummy, as they are non-aggressive and thus the treants will not attack the target dummy. They will however respond to a target that is flagged as an enemy, for example another player in a duel.
+
+ 
+
+https://wow.gamepedia.com/Force_of_Nature
+
+ 
+
+"Bc_icon.gif?version=9c5ea86df0b5f667b91d Patch 2.1.0 (2007-05-22):
+
+    These pets will now come into the game with full health, including that gained from a percentage of their master's stamina.
+    The Treants summoned by this spell will now correctly attack your target even if it is neutral or non-aggressive."
+
+Force of Nature should attack the target focused by the summoner, not pick a random target. If there are more than 1 target in the area they cannot be controlled of who to attack.
+
+This should also improve their overall usefulness in PvP, as they pick a random target and chase it until the summoner leaves combat or they die.
+
+ 
+
+https://imgur.com/a/eYfnl
+
+ 
+
+The treants damage is reported in the combat log but it is not displayed on my screen. I dont know why but I wanted to leave a note about it in case it could be fixed as well. It makes it very hard to determine how much damage they actually contribute to a fight.
