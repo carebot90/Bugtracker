@@ -1,0 +1,44 @@
+Report from https://forum.excalibur.ws/bugtracker/excalibur-tbc/classes/mage/aoe-damage-cap-r7160/
+
+ 
+ I skipped a lot because its really huge, for more info open the link
+ 
+ Hello folks,
+
+its time to discuss another big prolly bugged part about casters on excalibur. Like a year ago we already implemented partial resistance on this server (thanks for that, still love it). Now its time to take a deeper look into AoE spell mechanics. 
+
+ 
+
+How AoE spells work on Excalibur: 
+Your AoE spell does a base amount of damage to each mob in range. 
+
+This base amount doesnt change. It doesnt care if there are 2 or 20 mobs. It will hit each mob for that base amount of damage.
+How should it work?
+
+Since patch 2.2.0, most area effect damage effects have an 'area damage cap' which limits the potency of the spell if used against a large number of targets simultaneously.
+
+As always blizzard never mentioned directly in a patchnote that this system was added but they mentioned it for specific spells. 
+
+Patch 2.2.0:
+Druid:
+- Hurricane: This spell is now affected by area damage caps. Its bonus damage coefficients have also been increased.
+Hunters
+- Volley: This spell is now affected by area damage caps. Its bonus damage coefficients have also been increased. It also correctly consumes charges of Misdirection.
+Mages:
+
+-  Blizzard: This spell is now affected by area damage caps. Its bonus damage coefficients have also been increased.
+-  Frost Nova: This spell is now affected correctly by area damage caps.
+
+Warlocks:
+- Rain of Fire: This spell is now affected by area damage caps. Its bonus damage coefficients have also been increased.
+- Seed of Corruption: Dead targets will no longer be erroneously counted toward the damage cap on this spell.
+
+Patch 2.4.0:
+Mages:
+
+- [Arcane Explosion]: The damage cap for area of effect damage on this spell has been increased by approximately 50%.
+
+
+A theoretical example of Arcane Explosion; 1000 damage cap, 500 hit per mob: (Taken out of an old elitistjerks thread)
+
+
