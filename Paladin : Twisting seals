@@ -1,0 +1,42 @@
+Copy pasting from : https://forum.excalibur.ws/bugtracker/excalibur-tbc/classes/paladin/paladin-seal-twisting-r6424/
+
+More info in replies of the topic
+
+
+
+
+Hello,
+
+ 
+
+I hope this is not shut down as duplicate as the Seal of Command thread didn't affect this and the other 'duplicate' is in the wrong section.
+
+ 
+
+What does happen: Seal of Blood(or other seals) doesn't proc on the Seal of Command extra swing, when trying to seal twist.
+
+ 
+
+What should happen: For this patch, there was this mechanic called the Seal Twisting: A pal has the Seal of Command up and watches his swing timer - right before the swing ends, he casts another seal(e.g. Seal of Blood), then - if the Command would proc, it procs (like it the swing was imbued with it before) together with the Seal of Blood proc. There should be 4 damage numbers in that moment: White+Blood and Yellow(command)+Blood
+
+ 
+
+https://www.youtube.com/watch?v=ii2ktpfPqBE&ytbChannel=flashfreeze
+
+ 
+
+It takes some practice, but if you master it, the dps can increase by 10%+.. which is cool, and too bad we don't have the opportunity.
+
+ 
+
+Please fix, so we can show how cappable we can be in this patch.
+
+Cheers
+
+
+
+Quote Azelen: This is what I cannot understand either. It makes no sense, once you switch seal to another previous is removed and cannot proc anything, since it does not exist anymore, physically. This is why I don't think Blizzard intended this work like this, looks like a side effect of some horrible hackish "fix" for different problem.
+
+This is what is hard to fix, because it breaks all logic and requires a lot of "special handling" aka hacks.
+
+Quote 
