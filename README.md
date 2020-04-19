@@ -1,4 +1,4 @@
-Nextcalibur 2.4.3 Bug Tracker
+Project Entropius 2.4.3 Bug Tracker
 ================================
 
 How to use the bugtracker?
