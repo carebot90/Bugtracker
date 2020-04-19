@@ -1,0 +1,37 @@
+Made by Alucard:
+
+
+
+Write the full quest name in the title, and the region.
+
+Write a detailed step-by-step report how this bug can be reproduced.
+
+-Quest chain starts with quest named "Besieged!" in faction respective cities in Shadowmoon Valley. The quest has both faction version, whilst horde version is somewhat working and doable, alliance version seems buggy, cause i didnt manage to finish if after 5+ tries.
+
+ 
+
+A detailed explanation of what DOES happen.
+
+- Upon recieving a quest, player ought to to go to 3 consoles just under hill, where first problem occurs. If you are standing behind consol controls (for controlling fel reaver) you get "line of sight" error. It's actually okay if you walk behind the console and use it while having your back turned to fel reavers. After taking control of fel reaver, player gets new action bar with abilities (1-melee attack, 2-Destroy Deathforge infernal, 3-Sonic boom, 4-World breaker, 5-Turbo boost). Out of those only 2, 4 and 5 can be used. Tooltip for 2 says: Launches a baragge of 10 rockets into the air at nearby enemies. That is main and only mean to destroy 60 infernals, which btw are not hostile, nor can be targeted whatsoever. As for abilities 4 and 5, its Aoe stun damage dealer which doesnt hurt infernals and 5 is just sprint - like ability. Quest timer is 5 mins. Ability 2 is on 10 secs cd. Thats where 2nd problem occurs. I guess the ability has rng proc to fire "up to" 10 rockets on infernals, but best i possibly had was 6 rockets fired....Which leads us to 3rd problem. Appearently, even after firing 4-5-6 rockets, player can only get 4 kills on infernals, as 2 or 3 rocket kills are not counted at all. And with longer respawn timer than the quest timer, player needs to go to another platform down the stairs...Which leads to 4th problem, range on controlling the fel reaver. Player looses controls just after going down the stairs. On the other hand, not problem thats occuring with horde version of quest. Here are both versions of quests done by me. Note the fact that i finished horde version in one take, but still didnt finish alliance version.
+
+https://youtu.be/evOh8B5Ftdw
+
+And alliance: https://youtu.be/DybsKKw4J4I
+
+At the end of alliance version video, i added cropped situation where i got "attacked" by fel reaver i was supposed to use if this one fails. it was just hostile to me though it was taking damage from my AOE stun ability World breaker. Which can be counted as 5th problem here. For 6th and last problem in this quest (which is biggest) ill explain more in what SHOULD happen.
+
+ 
+
+ 
+
+A detailed explanation of what SHOULD happen.
+
+-As for what should happen is that on platform should be way more adds, smaller and shorter demons that attack your fel reaver, also bigger Terrorguard-like demons. For which you use Fel reaver's abilites such as Sonic boom and Meleee. But also which are affected by World breaker AOE stun (as stun + Turbo sprint away from them) while using ability #2 to destroy infernals. Adds are supposed to be able to kill off your Fel reaver, so you can use other 2 as well. Here are some of those examples:
+
+https://www.youtube.com/results?search_query=the+fel+and+the+furious+wow
+
+ 
+
+Since when did you encounter this bug. It could have been caused by a new update or been very old.
+
+-I think its older bug.
